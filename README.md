@@ -1,7 +1,7 @@
 # Base_De_Maquetas
 #### Se muestra la base del maquetado.
-> En estos ejercicios se desarrollan la base o modelo para Para montar un maquetado con mas estructura.
-> Además estos ejercicios muestran bases tale como: </p>
+> En estos ejercicios desarrollan la base o modelo para para montar un maquetado con mas estructura.</p>
+>  :boom: Además en estos ejercicios muestran bases tales como: </p>
 
 ### Maqueta con base_modelo1
 ![Imagen base 1](https://lh3.googleusercontent.com/oBIc0QUpRZwHyrGzN9RVzvx14hsIM8GK1Veqdx8Z-KkI21Wx_80c2Rhd9sHcZZ2PEq6cXhsYa7XWRYx0c9SDLiLp9f5gDOBdKU6ukBwvPLnpwLz547ew-HQNJD2JCX6a67OIUD3oBtBr9jI96RqCkG564zOA0tIubSuimoQNhpPrfwS3WPjGecCPI_O-_NbWY0qwTuvRCpcEKaWb5nOOQCUpOzDL40UOa4iICFW_gX7GyR-OvXvtGGfDGeEl6J0u0WMkbtcWlP85-gFj_ApKs8OPvx8FH18RxCWOjKtuwYXdaOfPxL-ksIS5_w7Vkp75lXSQo6R0ZtbC8deGd_Ngm50FMKSMktBj1B6j-nKKRQqteWvFT-Qst8SrPG3do3SJo8SksthKaPaA7p4TientIOv4mOXw5yr1cAb9scPfCqpb-bS5mbdYwPeWBpITNmOflMGe5HAzNLH_fkgvBueUP5kypwEFw-NkPElW326_9a48cpUd3hCnv2v7WWR5Kxj_uGP309pHJ1CH3TG5ClMjShUH4A9R8XIodpvBE3h56ifZFFSUlGrDhVuhnUfqIKThmriIAuTB1yiviXRlVNEL0r8IUTqXHqXqJZovmSydxFBwXGwC39sjVPtLox4I40zve1l5lG7s4Pkj13F_3hJvYTGUd6YZW9SXWZ91Q3E1gMM-FbG_bSjvWP5yArmLhjCYKOlwtDf0VRyd_B78IZRTP_3uSzqDNMfUcBXYkxd92NkgXFFVSIikBNXM7_w39M2VqWnXxf1ruJFwwGASl4ghamkh7PSaZNmtrJ9AVaoOLErz7nHVRyLpAWDasa-Rdu3GGyA=w486-h467-no?authuser=0) </p>
